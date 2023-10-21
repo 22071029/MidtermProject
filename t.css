@@ -56,13 +56,13 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .img1{
-    background-image: url(/midterm/1.jpg);
+    background-image: url(/midtermproject/1.jpg);
 }
 .img2{
-    background-image: url(/midterm/3.jpg);
+    background-image: url(/midtermproject/3.jpg);
 }
 .img3{
-    background-image: url(/midterm/2.jpg);
+    background-image: url(/midtermproject/2.jpg);
 }
 .card:hover{
     background-color: rgba(62,62,62);
